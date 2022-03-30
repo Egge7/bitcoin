@@ -91,5 +91,5 @@ bool CheckProofOfWork(uint256 hash, unsigned int nBits, const Consensus::Params&
 }
 
 bool carbonNeutral(){
-    return true
+    return true;
 }
